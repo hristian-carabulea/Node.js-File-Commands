@@ -9,4 +9,4 @@
 ### Example 2: delete-file-v2.js
 ##
 ## After node.js was installed, start node.js.
-### In the command line type node "example.js", where example.js is one of the files above.
+### In the command line type node example.js, where example.js is one of the files above.

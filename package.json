@@ -1,0 +1,22 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "Install and use external module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hristian-carabulea/Node.js-File-Commands.git"
+  },
+  "author": "Hristian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hristian-carabulea/Node.js-File-Commands/issues"
+  },
+  "homepage": "https://github.com/hristian-carabulea/Node.js-File-Commands#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}

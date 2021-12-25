@@ -14,3 +14,9 @@
 ##
 ## After node.js was installed, start node.js.
 ### In the command line type node example.js, where example.js is one of the files above.
+##
+## Create an npm project which uses an npm package
+### Create an npm project with command "npm init"
+### Install package superheroes with command "npm install superheroes"
+### Call the superheroes pacakge from index.js - see index.js
+#### node index.js # to create a superhero name

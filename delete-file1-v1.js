@@ -3,7 +3,7 @@
 
 const { unlink } = require('fs');
 
-unlink('file2.txt', (err) => {
+unlink('file1.txt', (err) => {
   if (err) throw err;
-  console.log('successfully deleted file2.txt');
+  console.log('successfully deleted file1.txt');
 });

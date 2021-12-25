@@ -1,5 +1,5 @@
 // Node.js v16.13.1
-// Delete file, example 1
+// Delete file2, example 2
 
 const fs = require('fs');
 
